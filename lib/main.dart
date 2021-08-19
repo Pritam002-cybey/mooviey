@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:moviey/hive.dart';
 import 'package:moviey/utils/text.dart';
 import 'package:moviey/widgets/toprated.dart';
 import 'package:moviey/widgets/trending.dart';
